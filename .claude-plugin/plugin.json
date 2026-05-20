@@ -1,0 +1,16 @@
+{
+  "name": "sol-skills",
+  "version": "0.1.0",
+  "description": "Sol's personal skills bundle. Wrapped from upstream skill repos that don't yet ship a Claude marketplace manifest.",
+  "author": {
+    "name": "Sol Parrott",
+    "url": "https://github.com/SolParrott"
+  },
+  "repository": "https://github.com/SolParrott/skills",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "handoff",
+    "productivity"
+  ]
+}
